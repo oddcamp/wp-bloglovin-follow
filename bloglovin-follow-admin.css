@@ -1,0 +1,41 @@
+.bfadmin input[type="checkbox"] {
+	margin-right: 10px;
+}
+
+.bfadmin-cell {
+	line-height: 100%;
+}
+
+.bfadmin-button-code {
+	height: 60px;
+	width: 90%;
+}
+
+.bfadmin-margin-settings {
+	border: 1px solid #e3e3e3;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 10px;
+	text-align: center;
+	width: 470px; 
+}
+
+.bfadmin-margin-settings input {
+	text-align: right;
+}
+
+.bfadmin-margin-settings img {
+	margin-bottom: 7px;
+	margin-top: 10px;
+}
+
+.bfadmin-margin-settings-left {
+	float: left;
+	margin-top: 3px;
+}
+
+.bfadmin-margin-settings-right {
+	float: right;
+	margin-top: 3px;
+}
